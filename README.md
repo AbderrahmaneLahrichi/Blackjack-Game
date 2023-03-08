@@ -17,4 +17,10 @@ Basic Rules of the Game:
 ![Blackjack Game](https://user-images.githubusercontent.com/111699655/223590867-3a849936-7b87-4b87-84f7-156f66231dbe.gif)
 
 
+# Future game updates:
+I will be looking to  introduce betting into this game. Currently It is just a friendly game where peopel can and get familiar with how the game is supposed to be played. I plan to add a  range slide that will allow people to choose how many chips they want to bet then choose to deal. 
+
+
+
+
 
